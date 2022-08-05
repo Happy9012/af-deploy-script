@@ -1,4 +1,4 @@
-# af-deploy-script
+Ko# af-deploy-script
 
 <!-- ## Railway
 
@@ -9,7 +9,7 @@
 
 Deploy to heroku.
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/af-deploy-script">
+<a href="https://heroku.com/deploy?template=https://github.com/Happy9012/af-deploy-script">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
